@@ -1,0 +1,20 @@
+html {
+    --color-1: #FFF;
+    --color-2: #EEE;
+    --color-3: #DDD;
+    --color-4: #CCC;
+    --color-5: #BBB;
+    --color-6: #AAA;
+    --color-7: #999;
+    --color-8: #888;
+    --color-9: #777;
+    --color-10: #666;
+    --color-11: #555;
+    --color-12: #444;
+    --color-13: #333;
+    --color-14: #222;
+    --color-15: #111;
+    --color-16: #000;
+    
+    --color-active-1: rgb(0,122,204);
+}
