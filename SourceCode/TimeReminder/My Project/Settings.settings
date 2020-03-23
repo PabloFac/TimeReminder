@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccentColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">25, 135, 209</Value>
+    </Setting>
+    <Setting Name="AccentColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 122, 204</Value>
+    </Setting>
+    <Setting Name="AccentColor3" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 109, 183</Value>
+    </Setting>
+    <Setting Name="ColorDarken" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ControlDarkDark</Value>
+    </Setting>
+    <Setting Name="ColorDark" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ControlDark</Value>
+    </Setting>
+    <Setting Name="ColorLight" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Control</Value>
+    </Setting>
+    <Setting Name="AbsoluteDark" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="AbsoluteLight" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">250, 250, 250</Value>
+    </Setting>
+    <Setting Name="RoundedButtons" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RoundedResolution" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="AccentForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Control</Value>
+    </Setting>
+    <Setting Name="ColorLighten" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Window</Value>
+    </Setting>
+    <Setting Name="StartTime" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">09:00:00</Value>
+    </Setting>
+    <Setting Name="EndTime" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">18:00:00</Value>
+    </Setting>
+    <Setting Name="IntervalTime" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:05:00</Value>
+    </Setting>
+    <Setting Name="IntervalAction" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="NotifyTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NotifyText" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NotifyDuration" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:05</Value>
+    </Setting>
+    <Setting Name="NotifyAtenuarPantalla" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

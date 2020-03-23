@@ -1,0 +1,15 @@
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\bin\Debug\TimeReminder.exe.config
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\bin\Debug\TimeReminder.exe
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\bin\Debug\TimeReminder.pdb
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\bin\Debug\TimeReminder.xml
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.Form1.resources
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.Resources.resources
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.vbproj.GenerateResource.cache
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.exe
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.xml
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.pdb
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.vbprojAssemblyReference.cache
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.frmGetTime.resources
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.frmGetTheme.resources
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.frmNotificacion.resources
+C:\Users\Xappia\Desktop\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.frmAtenuador.resources
